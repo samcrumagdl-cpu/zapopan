@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Observatorio descriptivo de resultados electorales por sección en Zapopan, Jalisco.">
+  <meta name="theme-color" content="#0a1022"><title>Zapopan 2024 · Sistema de Análisis Electoral</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css"><link rel="stylesheet" href="./console.css">
+</head>
+<body class="console-app">
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <header class="console-header">
+    <a class="console-brand" href="#resumen"><span class="console-mark">⌖</span><span><strong>Sistema de Análisis Electoral</strong><small>ZAPOPAN · JALISCO · MUNICIPIO 120</small></span></a>
+    <div class="console-status"><span>ELECCIÓN MUNICIPAL 2024</span><span class="status-local"><i></i> DATOS LOCALES</span></div>
+  </header>
+  <section id="global-kpis" class="global-kpis" aria-label="Indicadores municipales 2024"></section>
+  <div class="modulebar">
+    <nav aria-label="Navegación principal">
+      <a href="#resumen" data-page="resumen"><span>◫</span> Resumen ejecutivo</a>
+      <a href="#mapa" data-page="mapa"><span>◇</span> Cartografía electoral</a>
+      <a href="#emblemas" data-page="emblemas"><span>▤</span> Análisis por emblema</a>
+      <a href="#comparador" data-page="comparador"><span>⇄</span> Comparativo seccional</a>
+      <a href="#secciones" data-page="secciones"><span>⌕</span> Consulta seccional</a>
+      <a href="#territorio" data-page="territorio"><span>▧</span> Datos sociodemográficos</a>
+      <a href="#fuentes" data-page="fuentes"><span>≡</span> Fuentes y metodología</a>
+    </nav>
+    <form id="search-form" role="search"><label class="sr-only" for="section-search">Buscar sección</label><input id="section-search" type="search" inputmode="numeric" pattern="[0-9]+" placeholder="Buscar sección…" aria-describedby="search-status"><button aria-label="Buscar sección" type="submit">⌕</button></form><span id="search-status" role="status"></span>
+  </div>
+  <div class="workspace">
+    <span class="sr-only" id="breadcrumb">Resumen ejecutivo</span>
+    <main id="main" tabindex="-1"><div class="loading">Preparando el observatorio…</div></main>
+    <footer class="page-footer">Zapopan · Jalisco <span>Fuentes aportadas. Consulta cobertura y metodología antes de interpretar.</span></footer>
+  </div>
+  <dialog id="section-dialog" aria-labelledby="section-title"><button class="dialog-close" aria-label="Cerrar ficha">×</button><div id="section-detail"></div></dialog>
+  <script type="module" src="./js/app.js"></script>
+</body></html>

@@ -1,0 +1,1190 @@
+﻿source,field,type,rows,nulls,distinct,numericNonNull,nonNumericNonNull,meaning
+S01,fid,INTEGER,,,,,,Nombre literal de la fuente
+S01,geom,MULTIPOLYGON,,,,,,Geometría WKB en GeoPackage
+S01,id,REAL,,,,,,Nombre literal de la fuente
+S01,entidad,INTEGER,,,,,,Nombre literal de la fuente
+S01,distrito_f,INTEGER,,,,,,Nombre literal de la fuente
+S01,distrito_l,INTEGER,,,,,,Nombre literal de la fuente
+S01,municipio,INTEGER,,,,,,Nombre literal de la fuente
+S01,seccion,INTEGER,,,,,,Nombre literal de la fuente
+S01,tipo,INTEGER,,,,,,Nombre literal de la fuente
+S01,control,REAL,,,,,,Nombre literal de la fuente
+S01,UID,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UENTIDAD,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOBTOT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOBFEM,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOBMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_0A2,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_0A2_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_0A2_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_0A17,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_3YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_3YMAS_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_3YMAS_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_5YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_5YMAS_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_5YMAS_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_12YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_12YMAS_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_12YMA_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15YMAS_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15YMA_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_18YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_18YMAS_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_18YMA_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_3A5,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_3A5_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_3A5_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_6A11,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_6A11_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_6A11_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_8A14,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_8A14_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_8A14_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_12A14,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_12A14_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_12A14_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15A17,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15A17_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15A17_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_18A24,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_18A24_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_18A24_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_15A49_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_60YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_60YMAS_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP_60YMA_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UREL_H_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB0_14,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB15_64,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB65_MAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB_EDADN,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPROM_HNV,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPNACENT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPNACENT_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPNACENT_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPNACOE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPNACOE_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPNACOE_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRES2015,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRES2015_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRES201_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRESOE15,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRESOE15_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRESOE1_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3YM_HLI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3YM_HLI_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3YM_HL_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3HLINHE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3HLINHE_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3HLINH_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3HLI_HE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3HLI_HE_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3HLI_H_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP5_HLI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP5_HLI_NH,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP5_HLI_HE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPHOG_IND,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB_AFRO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB_AFRO_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOB_AFR_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCON_DISC,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCDISC_MO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCDISC_VI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCDISC_LE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCDISC_AU,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCDISC_M_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCDISC_ME,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCON_LIMI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_CSB,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_VIS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_HAC,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_OAU,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_MOT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_RE_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCLIM_PME,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPSIND_LIM,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3A5_NOA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3A5_NOA_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP3A5_NO_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP6A11_NOA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP6A11_N_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP6A11_N_2,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP12A14NOA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP12A14N_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP12A14N_2,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15A17A,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15A17A_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15A17A_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP18A24A,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP18A24A_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP18A24A_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP8A14AN,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP8A14AN_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP8A14AN_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15YM_AN,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15YM_AN_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15YM_A_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15YM_SE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15YM_SE_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15YM_S_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15PRI_IN,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15PRI__1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15PRI__2,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15PRI_CO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15PRI__3,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15PRI__4,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15SEC_IN,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15SEC__1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15SEC__2,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15SEC_CO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15SEC__3,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP15SEC__4,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP18YM_PB,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP18YM_PB_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP18YM_P_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UGRAPROES,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UGRAPROES_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UGRAPROE_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPEA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPEA_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPEA_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPE_INAC,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPE_INAC_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPE_INAC_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOCUPADA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOCUPADA_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOCUPAD_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDESOCUP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDESOCUP_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDESOCU_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPSINDER,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDER_SS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDER_IMSS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDER_ISTE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDER_IS_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPAFIL_PDO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDER_SEGP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPDER_IM_1,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPAFIL_IPR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPAFIL_OTR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP12YM_SOL,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP12YM_CAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UP12YM_SEP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPCATOLICA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRO_CRIEV,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOTRAS_RE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPSIN_RELI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UTOTHOG,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UHOGJEF_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UHOGJEF_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPOBHOG,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPHOGJEF_F,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPHOGJEF_M,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVIVTOT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UTVIVHAB,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UTVIVPAR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVIVPAR_HA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVIVPARH_C,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UTVIVPARHA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVIVPAR_DE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVIVPAR_UT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UOCUPVIVPA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPROM_OCUP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UPRO_OCUP_,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_PISOD,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_PISOT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_1DOR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_2YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_1CUAR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_2CUAR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_3YMAS,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_C_ELE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_S_ELE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_AGUAD,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_AEASP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_AGUAF,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_TINAC,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_CISTE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_EXCSA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_LETR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_DRENA,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_NODRE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_C_SER,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_NDEAE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_DSADM,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_NDACM,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_SNBIE,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_REFRI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_LAVAD,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_HMICR,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_AUTOM,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_MOTO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_BICI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_RADIO,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_TV,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_PC,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_TELEF,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_CEL,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_INTER,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_STVP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_SPMVP,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_CVJ,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_SINRT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_SINLT,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_SINCI,TEXT(254),,,,,,Nombre literal de la fuente
+S01,UVPH_SINTI,TEXT(254),,,,,,Nombre literal de la fuente
+S02,CIRCUNSCRIPCION,int64,10916,0,1,10916,0,Nombre literal de la fuente
+S02,ID_ESTADO,int64,10916,0,1,10916,0,Nombre literal de la fuente
+S02,NOMBRE_ESTADO,str,10916,0,1,0,10916,Nombre literal de la fuente
+S02,ID_DISTRITO_LOCAL,int64,10916,0,20,10916,0,Nombre literal de la fuente
+S02,CABECERA_DISTRITAL_LOCAL,str,10916,0,13,0,10916,Nombre literal de la fuente
+S02,ID_MUNICIPIO,int64,10916,0,125,10916,0,Nombre literal de la fuente
+S02,MUNICIPIO,str,10916,0,125,0,10916,Nombre literal de la fuente
+S02,SECCION,int64,10916,0,3784,10916,0,Nombre literal de la fuente
+S02,TIPO_CASILLA,str,10916,0,5,0,10916,Nombre literal de la fuente
+S02,ID_CASILLA,int64,10916,0,53,10916,0,Nombre literal de la fuente
+S02,EXT_CONTIGUA,int64,10916,0,14,10916,0,Nombre literal de la fuente
+S02,ACTA_CASILLA-MEC,str,10916,0,116,0,10916,Nombre literal de la fuente
+S02,URNA_ELECTRONICA,int64,10916,0,1,10916,0,Sin definición documental; conservar nombre original
+S02,PAN,float64,10916,49,273,10867,0,Nombre literal de la fuente
+S02,PRI,float64,10916,58,221,10858,0,Nombre literal de la fuente
+S02,PRD,float64,10916,58,42,10858,0,Nombre literal de la fuente
+S02,PVEM,float64,10916,102,219,10814,0,Nombre literal de la fuente
+S02,PT,float64,10916,383,116,10533,0,Nombre literal de la fuente
+S02,MC,int64,10916,0,417,10916,0,Nombre literal de la fuente
+S02,MORENA,float64,10916,30,240,10886,0,Nombre literal de la fuente
+S02,HAGAMOS,float64,10916,104,170,10812,0,Nombre literal de la fuente
+S02,FUTURO,float64,10916,478,126,10438,0,Nombre literal de la fuente
+S02,CAND_IND1,float64,10916,10855,47,61,0,Nombre literal de la fuente
+S02,CAND_IND2,float64,10916,10331,48,585,0,Nombre literal de la fuente
+S02,PAN_PRI_PRD,float64,10916,61,53,10855,0,Nombre literal de la fuente
+S02,PAN_PRI,float64,10916,64,28,10852,0,Nombre literal de la fuente
+S02,PAN_PRD,float64,10916,65,10,10851,0,Nombre literal de la fuente
+S02,PRI_PRD,float64,10916,65,11,10851,0,Nombre literal de la fuente
+S02,PVEM_PT_MORENA_HAGAMOS_FUTURO,float64,10916,2292,34,8624,0,Nombre literal de la fuente
+S02,PVEM_PT_MORENA_HAGAMOS,float64,10916,2291,17,8625,0,Nombre literal de la fuente
+S02,PVEM_PT_MORENA_FUTURO,float64,10916,2292,15,8624,0,Nombre literal de la fuente
+S02,PVEM_PT_MORENA,float64,10916,2290,22,8626,0,Nombre literal de la fuente
+S02,PVEM_PT_HAGAMOS_FUTURO,float64,10916,2292,10,8624,0,Nombre literal de la fuente
+S02,PVEM_PT_HAGAMOS,float64,10916,2292,11,8624,0,Nombre literal de la fuente
+S02,PVEM_PT_FUTURO,float64,10916,2292,8,8624,0,Nombre literal de la fuente
+S02,PVEM_PT,float64,10916,2291,9,8625,0,Nombre literal de la fuente
+S02,PVEM_MORENA_HAGAMOS_FUTURO,float64,10916,2292,10,8624,0,Nombre literal de la fuente
+S02,PVEM_MORENA_HAGAMOS,float64,10916,2291,10,8625,0,Nombre literal de la fuente
+S02,PVEM_MORENA_FUTURO,float64,10916,2292,12,8624,0,Nombre literal de la fuente
+S02,PVEM_MORENA,float64,10916,2290,16,8626,0,Nombre literal de la fuente
+S02,PVEM_HAGAMOS_FUTURO,float64,10916,2292,7,8624,0,Nombre literal de la fuente
+S02,PVEM_HAGAMOS,float64,10916,2292,9,8624,0,Nombre literal de la fuente
+S02,PVEM_FUTURO,float64,10916,2292,8,8624,0,Nombre literal de la fuente
+S02,PT_MORENA_HAGAMOS_FUTURO,float64,10916,2293,9,8623,0,Nombre literal de la fuente
+S02,PT_MORENA_HAGAMOS,float64,10916,2292,5,8624,0,Nombre literal de la fuente
+S02,PT_MORENA_FUTURO,float64,10916,2292,9,8624,0,Nombre literal de la fuente
+S02,PT_MORENA,float64,10916,2292,13,8624,0,Nombre literal de la fuente
+S02,PT_HAGAMOS_FUTURO,float64,10916,2292,5,8624,0,Nombre literal de la fuente
+S02,PT_HAGAMOS,float64,10916,2292,4,8624,0,Nombre literal de la fuente
+S02,PT_FUTURO,float64,10916,2292,6,8624,0,Nombre literal de la fuente
+S02,MORENA_HAGAMOS_FUTURO,float64,10916,2292,9,8624,0,Nombre literal de la fuente
+S02,MORENA_HAGAMOS,float64,10916,2292,14,8624,0,Nombre literal de la fuente
+S02,MORENA_FUTURO,float64,10916,2294,12,8622,0,Nombre literal de la fuente
+S02,HAGAMOS_FUTURO,float64,10916,2292,11,8624,0,Nombre literal de la fuente
+S02,NUM_VOTOS_VALIDOS,int64,10916,0,543,10916,0,Nombre literal de la fuente
+S02,NUM_VOTOS_CAN_NREG,int64,10916,0,25,10916,0,Nombre literal de la fuente
+S02,NUM_VOTOS_NULOS,int64,10916,0,71,10916,0,Nombre literal de la fuente
+S02,TOTAL_VOTOS,int64,10916,0,540,10916,0,Nombre literal de la fuente
+S02,LISTA_NOMINAL,int64,10916,0,574,10916,0,Nombre literal de la fuente
+S02,ESTATUS_ACTA,str,10916,0,2,0,10916,Nombre literal de la fuente
+S02,TRIBUNAL,str,10916,10902,1,0,14,Nombre literal de la fuente
+S02,OBSERVACIONES,str,10916,10902,5,0,14,Nombre literal de la fuente
+S02,RUTA_ACTA,float64,10916,10916,0,0,0,Nombre literal de la fuente
+S03,ENTIDAD,str,10916,0,1,0,10916,Nombre literal de la fuente
+S03,ID_DISTRITO_LOCAL,int64,10916,0,20,10916,0,Nombre literal de la fuente
+S03,DISTRITO_LOCAL,str,10916,0,13,0,10916,Nombre literal de la fuente
+S03,ID_DISTRITO_MUNICIPIO,int64,10916,0,125,10916,0,Nombre literal de la fuente
+S03,MUNICIPIO,str,10916,0,125,0,10916,Nombre literal de la fuente
+S03,Casilla,str,10916,0,10864,161,10755,Nombre literal de la fuente
+S03,SECCION,str,10916,0,3929,10863,53,Nombre literal de la fuente
+S03,TIPO_CASILLA,str,10916,161,59,0,10755,Nombre literal de la fuente
+S03,PAN,float64,10916,49,273,10867,0,Nombre literal de la fuente
+S03,PRI,float64,10916,58,221,10858,0,Nombre literal de la fuente
+S03,PRD,float64,10916,58,42,10858,0,Nombre literal de la fuente
+S03,PVEM,float64,10916,51,219,10865,0,Nombre literal de la fuente
+S03,PT,float64,10916,383,116,10533,0,Nombre literal de la fuente
+S03,MC,int64,10916,0,417,10916,0,Nombre literal de la fuente
+S03,MORENA,float64,10916,30,240,10886,0,Nombre literal de la fuente
+S03,HAGAMOS,float64,10916,104,170,10812,0,Nombre literal de la fuente
+S03,FUTURO,float64,10916,478,126,10438,0,Nombre literal de la fuente
+S03,CAMO,float64,10916,10348,48,568,0,Nombre literal de la fuente
+S03,ESCC,float64,10916,10855,47,61,0,Nombre literal de la fuente
+S03,PAN-PRI-PRD,float64,10916,61,53,10855,0,Nombre literal de la fuente
+S03,PAN-PRI,float64,10916,64,28,10852,0,Nombre literal de la fuente
+S03,PAN-PRD,float64,10916,65,10,10851,0,Nombre literal de la fuente
+S03,PRI-PRD,float64,10916,65,11,10851,0,Nombre literal de la fuente
+S03,PVEM-PT-MORENA-HAGAMOS-FUTURO,float64,10916,2292,34,8624,0,Nombre literal de la fuente
+S03,PVEM-PT-MORENA-HAGAMOS,float64,10916,2291,17,8625,0,Nombre literal de la fuente
+S03,PVEM-PT-MORENA-FUTURO,float64,10916,2292,15,8624,0,Nombre literal de la fuente
+S03,PVEM-PT-MORENA,float64,10916,2290,22,8626,0,Nombre literal de la fuente
+S03,PVEM-PT-HAGAMOS-FUTURO,float64,10916,2292,10,8624,0,Nombre literal de la fuente
+S03,PVEM-PT-HAGAMOS,float64,10916,2292,11,8624,0,Nombre literal de la fuente
+S03,PVEM-PT-FUTURO,float64,10916,2292,8,8624,0,Nombre literal de la fuente
+S03,PVEM-PT,float64,10916,2291,9,8625,0,Nombre literal de la fuente
+S03,PVEM-MORENA-HAGAMOS-FUTURO,float64,10916,2292,10,8624,0,Nombre literal de la fuente
+S03,PVEM-MORENA-HAGAMOS,float64,10916,2291,10,8625,0,Nombre literal de la fuente
+S03,PVEM-MORENA-FUTURO,float64,10916,2292,12,8624,0,Nombre literal de la fuente
+S03,PVEM-MORENA,float64,10916,2290,16,8626,0,Nombre literal de la fuente
+S03,PVEM-HAGAMOS-FUTURO,float64,10916,2292,7,8624,0,Nombre literal de la fuente
+S03,PVEM-HAGAMOS,float64,10916,2292,9,8624,0,Nombre literal de la fuente
+S03,PVEM-FUTURO,float64,10916,2292,8,8624,0,Nombre literal de la fuente
+S03,PT-MORENA-HAGAMOS-FUTURO,float64,10916,2293,9,8623,0,Nombre literal de la fuente
+S03,PT-MORENA-HAGAMOS,float64,10916,2292,5,8624,0,Nombre literal de la fuente
+S03,PT-MORENA-FUTURO,float64,10916,2292,9,8624,0,Nombre literal de la fuente
+S03,PT-MORENA,float64,10916,2292,13,8624,0,Nombre literal de la fuente
+S03,PT-HAGAMOS-FUTURO,float64,10916,2292,5,8624,0,Nombre literal de la fuente
+S03,PT-HAGAMOS,float64,10916,2292,4,8624,0,Nombre literal de la fuente
+S03,PT-FUTURO,float64,10916,2292,6,8624,0,Nombre literal de la fuente
+S03,MORENA-HAGAMOS-FUTURO,float64,10916,2292,9,8624,0,Nombre literal de la fuente
+S03,MORENA-HAGAMOS,float64,10916,2292,14,8624,0,Nombre literal de la fuente
+S03,MORENA-FUTURO,float64,10916,2294,12,8622,0,Nombre literal de la fuente
+S03,HAGAMOS-FUTURO,float64,10916,2292,11,8624,0,Nombre literal de la fuente
+S03,NULOS,float64,10916,4,71,10912,0,Nombre literal de la fuente
+S03,NR,float64,10916,6,25,10910,0,Nombre literal de la fuente
+S03,TOTAL_VOTOS_CALCULADO,int64,10916,0,540,10916,0,Nombre literal de la fuente
+S04,ENTIDAD,str,10916,0,1,0,10916,Nombre literal de la fuente
+S04,ID_DISTRITO_LOCAL,int64,10916,0,20,10916,0,Nombre literal de la fuente
+S04,DISTRITO_LOCAL,str,10916,0,13,0,10916,Nombre literal de la fuente
+S04,ID_DISTRITO_MUNICIPIO,int64,10916,0,125,10916,0,Nombre literal de la fuente
+S04,MUNICIPIO,str,10916,0,125,0,10916,Nombre literal de la fuente
+S04,Casilla,str,10916,0,10864,161,10755,Nombre literal de la fuente
+S04,SECCION,str,10916,0,3929,10863,53,Nombre literal de la fuente
+S04,TIPO_CASILLA,str,10916,161,59,0,10755,Nombre literal de la fuente
+S04,MC,int64,10916,0,417,10916,0,Nombre literal de la fuente
+S04,MORENA,float64,10916,30,240,10886,0,Nombre literal de la fuente
+S05,ENTIDAD,str,10916,0,1,0,10916,Nombre literal de la fuente
+S05,MUNICIPIO,str,10916,0,125,0,10916,Nombre literal de la fuente
+S05,Casilla,str,10916,0,10864,161,10755,Nombre literal de la fuente
+S05,SECCION,str,10916,0,3929,10863,53,Nombre literal de la fuente
+S05,PAN,float64,10916,49,273,10867,0,Nombre literal de la fuente
+S06,id,float64,4080,0,4080,4080,0,Nombre literal de la fuente
+S06,entidad,int64,4080,0,1,4080,0,Nombre literal de la fuente
+S06,distrito_f,int64,4080,0,20,4080,0,Nombre literal de la fuente
+S06,distrito_l,int64,4080,0,20,4080,0,Nombre literal de la fuente
+S06,municipio,int64,4080,0,125,4080,0,Nombre literal de la fuente
+S06,seccion,int64,4080,0,4080,4080,0,Nombre literal de la fuente
+S06,tipo,int64,4080,0,3,4080,0,Nombre literal de la fuente
+S06,control,float64,4080,0,4080,4080,0,Nombre literal de la fuente
+S06,UID,float64,4080,572,3508,3508,0,Sin definición documental; conservar nombre original
+S06,UENTIDAD,float64,4080,572,1,3508,0,Sin definición documental; conservar nombre original
+S06,UPOBTOT,float64,4080,572,2245,3508,0,Sin definición documental; conservar nombre original
+S06,UPOBFEM,float64,4080,573,1685,3507,0,Sin definición documental; conservar nombre original
+S06,UPOBMAS,float64,4080,573,1641,3507,0,Sin definición documental; conservar nombre original
+S06,UP_0A2,float64,4080,573,380,3507,0,Sin definición documental; conservar nombre original
+S06,UP_0A2_F,float64,4080,573,227,3507,0,Sin definición documental; conservar nombre original
+S06,UP_0A2_M,float64,4080,573,229,3507,0,Sin definición documental; conservar nombre original
+S06,UP_0A17,float64,4080,573,1282,3507,0,Sin definición documental; conservar nombre original
+S06,UP_3YMAS,float64,4080,573,2218,3507,0,Sin definición documental; conservar nombre original
+S06,UP_3YMAS_F,float64,4080,573,1657,3507,0,Sin definición documental; conservar nombre original
+S06,UP_3YMAS_M,float64,4080,573,1620,3507,0,Sin definición documental; conservar nombre original
+S06,UP_5YMAS,float64,4080,573,2196,3507,0,Sin definición documental; conservar nombre original
+S06,UP_5YMAS_F,float64,4080,573,1623,3507,0,Sin definición documental; conservar nombre original
+S06,UP_5YMAS_M,float64,4080,573,1557,3507,0,Sin definición documental; conservar nombre original
+S06,UP_12YMAS,float64,4080,573,2050,3507,0,Sin definición documental; conservar nombre original
+S06,UP_12YMAS_,float64,4080,573,1504,3507,0,Sin definición documental; conservar nombre original
+S06,UP_12YMA_1,float64,4080,573,1435,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15YMAS,float64,4080,573,2020,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15YMAS_,float64,4080,573,1448,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15YMA_1,float64,4080,573,1399,3507,0,Sin definición documental; conservar nombre original
+S06,UP_18YMAS,float64,4080,573,1930,3507,0,Sin definición documental; conservar nombre original
+S06,UP_18YMAS_,float64,4080,573,1399,3507,0,Sin definición documental; conservar nombre original
+S06,UP_18YMA_1,float64,4080,573,1331,3507,0,Sin definición documental; conservar nombre original
+S06,UP_3A5,float64,4080,573,410,3507,0,Sin definición documental; conservar nombre original
+S06,UP_3A5_F,float64,4080,573,251,3507,0,Sin definición documental; conservar nombre original
+S06,UP_3A5_M,float64,4080,573,252,3507,0,Sin definición documental; conservar nombre original
+S06,UP_6A11,float64,4080,573,661,3507,0,Sin definición documental; conservar nombre original
+S06,UP_6A11_F,float64,4080,573,407,3507,0,Sin definición documental; conservar nombre original
+S06,UP_6A11_M,float64,4080,573,413,3507,0,Sin definición documental; conservar nombre original
+S06,UP_8A14,float64,4080,573,725,3507,0,Sin definición documental; conservar nombre original
+S06,UP_8A14_F,float64,4080,573,449,3507,0,Sin definición documental; conservar nombre original
+S06,UP_8A14_M,float64,4080,573,455,3507,0,Sin definición documental; conservar nombre original
+S06,UP_12A14,float64,4080,573,402,3507,0,Sin definición documental; conservar nombre original
+S06,UP_12A14_F,float64,4080,573,236,3507,0,Sin definición documental; conservar nombre original
+S06,UP_12A14_M,float64,4080,573,246,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15A17,float64,4080,573,401,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15A17_F,float64,4080,573,245,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15A17_M,float64,4080,573,244,3507,0,Sin definición documental; conservar nombre original
+S06,UP_18A24,float64,4080,573,701,3507,0,Sin definición documental; conservar nombre original
+S06,UP_18A24_F,float64,4080,573,432,3507,0,Sin definición documental; conservar nombre original
+S06,UP_18A24_M,float64,4080,573,436,3507,0,Sin definición documental; conservar nombre original
+S06,UP_15A49_F,float64,4080,573,1179,3507,0,Sin definición documental; conservar nombre original
+S06,UP_60YMAS,float64,4080,573,628,3507,0,Sin definición documental; conservar nombre original
+S06,UP_60YMAS_,float64,4080,573,392,3507,0,Sin definición documental; conservar nombre original
+S06,UP_60YMA_1,float64,4080,573,341,3507,0,Sin definición documental; conservar nombre original
+S06,UREL_H_M,float64,4080,573,1892,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB0_14,float64,4080,573,1148,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB15_64,float64,4080,573,1886,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB65_MAS,float64,4080,573,452,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB_EDADN,float64,4080,573,72,3507,0,Sin definición documental; conservar nombre original
+S06,UPROM_HNV,float64,4080,573,278,3507,0,Sin definición documental; conservar nombre original
+S06,UPNACENT,float64,4080,573,2130,3507,0,Sin definición documental; conservar nombre original
+S06,UPNACENT_F,float64,4080,573,1561,3507,0,Sin definición documental; conservar nombre original
+S06,UPNACENT_M,float64,4080,573,1531,3507,0,Sin definición documental; conservar nombre original
+S06,UPNACOE,float64,4080,573,791,3507,0,Sin definición documental; conservar nombre original
+S06,UPNACOE_F,float64,4080,573,518,3507,0,Sin definición documental; conservar nombre original
+S06,UPNACOE_M,float64,4080,573,517,3507,0,Sin definición documental; conservar nombre original
+S06,UPRES2015,float64,4080,573,2167,3507,0,Sin definición documental; conservar nombre original
+S06,UPRES2015_,float64,4080,573,1604,3507,0,Sin definición documental; conservar nombre original
+S06,UPRES201_1,float64,4080,573,1535,3507,0,Sin definición documental; conservar nombre original
+S06,UPRESOE15,float64,4080,573,278,3507,0,Sin definición documental; conservar nombre original
+S06,UPRESOE15_,float64,4080,573,171,3507,0,Sin definición documental; conservar nombre original
+S06,UPRESOE1_1,float64,4080,573,184,3507,0,Sin definición documental; conservar nombre original
+S06,UP3YM_HLI,float64,4080,573,141,3507,0,Sin definición documental; conservar nombre original
+S06,UP3YM_HLI_,float64,4080,573,90,3507,0,Sin definición documental; conservar nombre original
+S06,UP3YM_HL_1,float64,4080,573,98,3507,0,Sin definición documental; conservar nombre original
+S06,UP3HLINHE,float64,4080,573,22,3507,0,Sin definición documental; conservar nombre original
+S06,UP3HLINHE_,float64,4080,573,17,3507,0,Sin definición documental; conservar nombre original
+S06,UP3HLINH_1,float64,4080,573,17,3507,0,Sin definición documental; conservar nombre original
+S06,UP3HLI_HE,float64,4080,573,136,3507,0,Sin definición documental; conservar nombre original
+S06,UP3HLI_HE_,float64,4080,573,90,3507,0,Sin definición documental; conservar nombre original
+S06,UP3HLI_H_1,float64,4080,573,91,3507,0,Sin definición documental; conservar nombre original
+S06,UP5_HLI,float64,4080,573,143,3507,0,Sin definición documental; conservar nombre original
+S06,UP5_HLI_NH,float64,4080,573,22,3507,0,Sin definición documental; conservar nombre original
+S06,UP5_HLI_HE,float64,4080,573,135,3507,0,Sin definición documental; conservar nombre original
+S06,UPHOG_IND,float64,4080,573,194,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB_AFRO,float64,4080,573,249,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB_AFRO_,float64,4080,573,165,3507,0,Sin definición documental; conservar nombre original
+S06,UPOB_AFR_1,float64,4080,573,167,3507,0,Sin definición documental; conservar nombre original
+S06,UPCON_DISC,float64,4080,573,344,3507,0,Sin definición documental; conservar nombre original
+S06,UPCDISC_MO,float64,4080,573,199,3507,0,Sin definición documental; conservar nombre original
+S06,UPCDISC_VI,float64,4080,573,193,3507,0,Sin definición documental; conservar nombre original
+S06,UPCDISC_LE,float64,4080,573,87,3507,0,Sin definición documental; conservar nombre original
+S06,UPCDISC_AU,float64,4080,573,94,3507,0,Sin definición documental; conservar nombre original
+S06,UPCDISC_M_,float64,4080,573,98,3507,0,Sin definición documental; conservar nombre original
+S06,UPCDISC_ME,float64,4080,573,102,3507,0,Sin definición documental; conservar nombre original
+S06,UPCON_LIMI,float64,4080,573,612,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_CSB,float64,4080,573,257,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_VIS,float64,4080,573,432,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_HAC,float64,4080,573,85,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_OAU,float64,4080,573,175,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_MOT,float64,4080,573,72,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_RE_,float64,4080,573,194,3507,0,Sin definición documental; conservar nombre original
+S06,UPCLIM_PME,float64,4080,573,139,3507,0,Sin definición documental; conservar nombre original
+S06,UPSIND_LIM,float64,4080,573,2115,3507,0,Sin definición documental; conservar nombre original
+S06,UP3A5_NOA,float64,4080,573,226,3507,0,Sin definición documental; conservar nombre original
+S06,UP3A5_NOA_,float64,4080,573,131,3507,0,Sin definición documental; conservar nombre original
+S06,UP3A5_NO_1,float64,4080,573,136,3507,0,Sin definición documental; conservar nombre original
+S06,UP6A11_NOA,float64,4080,573,90,3507,0,Sin definición documental; conservar nombre original
+S06,UP6A11_N_1,float64,4080,573,53,3507,0,Sin definición documental; conservar nombre original
+S06,UP6A11_N_2,float64,4080,573,55,3507,0,Sin definición documental; conservar nombre original
+S06,UP12A14NOA,float64,4080,573,89,3507,0,Sin definición documental; conservar nombre original
+S06,UP12A14N_1,float64,4080,573,50,3507,0,Sin definición documental; conservar nombre original
+S06,UP12A14N_2,float64,4080,573,59,3507,0,Sin definición documental; conservar nombre original
+S06,UP15A17A,float64,4080,573,311,3507,0,Sin definición documental; conservar nombre original
+S06,UP15A17A_F,float64,4080,573,186,3507,0,Sin definición documental; conservar nombre original
+S06,UP15A17A_M,float64,4080,573,174,3507,0,Sin definición documental; conservar nombre original
+S06,UP18A24A,float64,4080,573,335,3507,0,Sin definición documental; conservar nombre original
+S06,UP18A24A_F,float64,4080,573,200,3507,0,Sin definición documental; conservar nombre original
+S06,UP18A24A_M,float64,4080,573,196,3507,0,Sin definición documental; conservar nombre original
+S06,UP8A14AN,float64,4080,573,59,3507,0,Sin definición documental; conservar nombre original
+S06,UP8A14AN_F,float64,4080,573,35,3507,0,Sin definición documental; conservar nombre original
+S06,UP8A14AN_M,float64,4080,573,40,3507,0,Sin definición documental; conservar nombre original
+S06,UP15YM_AN,float64,4080,573,222,3507,0,Sin definición documental; conservar nombre original
+S06,UP15YM_AN_,float64,4080,573,143,3507,0,Sin definición documental; conservar nombre original
+S06,UP15YM_A_1,float64,4080,573,125,3507,0,Sin definición documental; conservar nombre original
+S06,UP15YM_SE,float64,4080,573,265,3507,0,Sin definición documental; conservar nombre original
+S06,UP15YM_SE_,float64,4080,573,160,3507,0,Sin definición documental; conservar nombre original
+S06,UP15YM_S_1,float64,4080,573,155,3507,0,Sin definición documental; conservar nombre original
+S06,UP15PRI_IN,float64,4080,573,464,3507,0,Sin definición documental; conservar nombre original
+S06,UP15PRI__1,float64,4080,573,274,3507,0,Sin definición documental; conservar nombre original
+S06,UP15PRI__2,float64,4080,573,266,3507,0,Sin definición documental; conservar nombre original
+S06,UP15PRI_CO,float64,4080,573,667,3507,0,Sin definición documental; conservar nombre original
+S06,UP15PRI__3,float64,4080,573,424,3507,0,Sin definición documental; conservar nombre original
+S06,UP15PRI__4,float64,4080,573,398,3507,0,Sin definición documental; conservar nombre original
+S06,UP15SEC_IN,float64,4080,573,254,3507,0,Sin definición documental; conservar nombre original
+S06,UP15SEC__1,float64,4080,573,137,3507,0,Sin definición documental; conservar nombre original
+S06,UP15SEC__2,float64,4080,573,162,3507,0,Sin definición documental; conservar nombre original
+S06,UP15SEC_CO,float64,4080,573,927,3507,0,Sin definición documental; conservar nombre original
+S06,UP15SEC__3,float64,4080,573,594,3507,0,Sin definición documental; conservar nombre original
+S06,UP15SEC__4,float64,4080,573,574,3507,0,Sin definición documental; conservar nombre original
+S06,UP18YM_PB,float64,4080,573,1378,3507,0,Sin definición documental; conservar nombre original
+S06,UP18YM_PB_,float64,4080,573,891,3507,0,Sin definición documental; conservar nombre original
+S06,UP18YM_P_1,float64,4080,573,876,3507,0,Sin definición documental; conservar nombre original
+S06,UGRAPROES,float64,4080,573,913,3507,0,Sin definición documental; conservar nombre original
+S06,UGRAPROES_,float64,4080,573,861,3507,0,Sin definición documental; conservar nombre original
+S06,UGRAPROE_1,float64,4080,573,990,3507,0,Sin definición documental; conservar nombre original
+S06,UPEA,float64,4080,573,1697,3507,0,Sin definición documental; conservar nombre original
+S06,UPEA_F,float64,4080,573,1045,3507,0,Sin definición documental; conservar nombre original
+S06,UPEA_M,float64,4080,573,1241,3507,0,Sin definición documental; conservar nombre original
+S06,UPE_INAC,float64,4080,573,1210,3507,0,Sin definición documental; conservar nombre original
+S06,UPE_INAC_F,float64,4080,573,953,3507,0,Sin definición documental; conservar nombre original
+S06,UPE_INAC_M,float64,4080,573,545,3507,0,Sin definición documental; conservar nombre original
+S06,UPOCUPADA,float64,4080,573,1679,3507,0,Sin definición documental; conservar nombre original
+S06,UPOCUPADA_,float64,4080,573,1031,3507,0,Sin definición documental; conservar nombre original
+S06,UPOCUPAD_1,float64,4080,573,1227,3507,0,Sin definición documental; conservar nombre original
+S06,UPDESOCUP,float64,4080,573,98,3507,0,Sin definición documental; conservar nombre original
+S06,UPDESOCUP_,float64,4080,573,40,3507,0,Sin definición documental; conservar nombre original
+S06,UPDESOCU_1,float64,4080,573,73,3507,0,Sin definición documental; conservar nombre original
+S06,UPSINDER,float64,4080,573,1295,3507,0,Sin definición documental; conservar nombre original
+S06,UPDER_SS,float64,4080,573,1972,3507,0,Sin definición documental; conservar nombre original
+S06,UPDER_IMSS,float64,4080,573,1729,3507,0,Sin definición documental; conservar nombre original
+S06,UPDER_ISTE,float64,4080,573,290,3507,0,Sin definición documental; conservar nombre original
+S06,UPDER_IS_1,float64,4080,573,37,3507,0,Sin definición documental; conservar nombre original
+S06,UPAFIL_PDO,float64,4080,573,82,3507,0,Sin definición documental; conservar nombre original
+S06,UPDER_SEGP,float64,4080,573,978,3507,0,Sin definición documental; conservar nombre original
+S06,UPDER_IM_1,float64,4080,573,78,3507,0,Sin definición documental; conservar nombre original
+S06,UPAFIL_IPR,float64,4080,573,352,3507,0,Sin definición documental; conservar nombre original
+S06,UPAFIL_OTR,float64,4080,573,147,3507,0,Sin definición documental; conservar nombre original
+S06,UP12YM_SOL,float64,4080,573,1242,3507,0,Sin definición documental; conservar nombre original
+S06,UP12YM_CAS,float64,4080,573,1508,3507,0,Sin definición documental; conservar nombre original
+S06,UP12YM_SEP,float64,4080,573,546,3507,0,Sin definición documental; conservar nombre original
+S06,UPCATOLICA,float64,4080,573,2170,3507,0,Sin definición documental; conservar nombre original
+S06,UPRO_CRIEV,float64,4080,573,419,3507,0,Sin definición documental; conservar nombre original
+S06,UPOTRAS_RE,float64,4080,573,45,3507,0,Sin definición documental; conservar nombre original
+S06,UPSIN_RELI,float64,4080,573,423,3507,0,Sin definición documental; conservar nombre original
+S06,UTOTHOG,float64,4080,573,1184,3507,0,Sin definición documental; conservar nombre original
+S06,UHOGJEF_F,float64,4080,573,588,3507,0,Sin definición documental; conservar nombre original
+S06,UHOGJEF_M,float64,4080,573,913,3507,0,Sin definición documental; conservar nombre original
+S06,UPOBHOG,float64,4080,573,2246,3507,0,Sin definición documental; conservar nombre original
+S06,UPHOGJEF_F,float64,4080,573,1305,3507,0,Sin definición documental; conservar nombre original
+S06,UPHOGJEF_M,float64,4080,573,1916,3507,0,Sin definición documental; conservar nombre original
+S06,UVIVTOT,float64,4080,572,1357,3508,0,Sin definición documental; conservar nombre original
+S06,UTVIVHAB,float64,4080,572,1184,3508,0,Sin definición documental; conservar nombre original
+S06,UTVIVPAR,float64,4080,573,1306,3507,0,Sin definición documental; conservar nombre original
+S06,UVIVPAR_HA,float64,4080,573,1139,3507,0,Sin definición documental; conservar nombre original
+S06,UVIVPARH_C,float64,4080,573,1175,3507,0,Sin definición documental; conservar nombre original
+S06,UTVIVPARHA,float64,4080,573,1184,3507,0,Sin definición documental; conservar nombre original
+S06,UVIVPAR_DE,float64,4080,573,384,3507,0,Sin definición documental; conservar nombre original
+S06,UVIVPAR_UT,float64,4080,573,262,3507,0,Sin definición documental; conservar nombre original
+S06,UOCUPVIVPA,float64,4080,573,2246,3507,0,Sin definición documental; conservar nombre original
+S06,UPROM_OCUP,float64,4080,573,252,3507,0,Sin definición documental; conservar nombre original
+S06,UPRO_OCUP_,float64,4080,573,113,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_PISOD,float64,4080,573,1161,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_PISOT,float64,4080,573,92,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_1DOR,float64,4080,573,467,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_2YMAS,float64,4080,573,991,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_1CUAR,float64,4080,573,135,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_2CUAR,float64,4080,573,319,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_3YMAS,float64,4080,573,1069,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_C_ELE,float64,4080,573,1166,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_S_ELE,float64,4080,573,40,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_AGUAD,float64,4080,573,1180,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_AEASP,float64,4080,573,1164,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_AGUAF,float64,4080,573,71,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_TINAC,float64,4080,573,1028,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_CISTE,float64,4080,573,770,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_EXCSA,float64,4080,573,1168,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_LETR,float64,4080,573,26,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_DRENA,float64,4080,573,1188,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_NODRE,float64,4080,573,65,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_C_SER,float64,4080,573,1192,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_NDEAE,float64,4080,573,16,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_DSADM,float64,4080,573,1161,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_NDACM,float64,4080,573,625,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_SNBIE,float64,4080,573,37,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_REFRI,float64,4080,573,1143,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_LAVAD,float64,4080,573,1080,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_HMICR,float64,4080,573,850,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_AUTOM,float64,4080,573,849,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_MOTO,float64,4080,573,419,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_BICI,float64,4080,573,542,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_RADIO,float64,4080,573,967,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_TV,float64,4080,573,1148,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_PC,float64,4080,573,750,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_TELEF,float64,4080,573,733,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_CEL,float64,4080,573,1143,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_INTER,float64,4080,573,916,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_STVP,float64,4080,573,805,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_SPMVP,float64,4080,573,550,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_CVJ,float64,4080,573,404,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_SINRT,float64,4080,573,109,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_SINLT,float64,4080,573,140,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_SINCI,float64,4080,573,621,3507,0,Sin definición documental; conservar nombre original
+S06,UVPH_SINTI,float64,4080,573,55,3507,0,Sin definición documental; conservar nombre original
+S07,seccion,int64,4080,0,4080,4080,0,Nombre literal de la fuente
+S07,PCT_SECC,float64,4080,0,434,4080,0,Nombre literal de la fuente
+S07,Unnamed: 2,float64,4080,499,3581,3581,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 3,float64,4080,1053,3027,3027,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 4,float64,4080,1053,1,3027,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 5,float64,4080,1053,2080,3027,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 6,float64,4080,1054,1597,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 7,float64,4080,1054,1549,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 8,float64,4080,1054,372,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 9,float64,4080,1054,225,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 10,float64,4080,1054,226,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 11,float64,4080,1054,1220,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 12,float64,4080,1054,2034,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 13,float64,4080,1054,1576,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 14,float64,4080,1054,1532,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 15,float64,4080,1054,2031,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 16,float64,4080,1054,1550,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 17,float64,4080,1054,1492,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 18,float64,4080,1054,1915,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 19,float64,4080,1054,1428,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 20,float64,4080,1054,1380,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 21,float64,4080,1054,1895,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 22,float64,4080,1054,1388,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 23,float64,4080,1054,1348,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 24,float64,4080,1054,1802,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 25,float64,4080,1054,1351,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 26,float64,4080,1054,1283,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 27,float64,4080,1054,403,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 28,float64,4080,1054,245,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 29,float64,4080,1054,248,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 30,float64,4080,1054,643,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 31,float64,4080,1054,401,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 32,float64,4080,1054,405,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 33,float64,4080,1054,706,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 34,float64,4080,1054,441,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 35,float64,4080,1054,447,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 36,float64,4080,1054,397,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 37,float64,4080,1054,234,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 38,float64,4080,1054,243,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 39,float64,4080,1054,393,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 40,float64,4080,1054,240,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 41,float64,4080,1054,243,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 42,float64,4080,1054,684,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 43,float64,4080,1054,427,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 44,float64,4080,1054,428,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 45,float64,4080,1054,1138,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 46,float64,4080,1054,617,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 47,float64,4080,1054,389,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 48,float64,4080,1054,337,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 49,float64,4080,1054,1745,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 50,float64,4080,1054,1105,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 51,float64,4080,1054,1764,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 52,float64,4080,1054,449,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 53,float64,4080,1054,69,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 54,float64,4080,1054,277,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 55,float64,4080,1054,1979,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 56,float64,4080,1054,1488,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 57,float64,4080,1054,1463,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 58,float64,4080,1054,789,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 59,float64,4080,1054,515,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 60,float64,4080,1054,517,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 61,float64,4080,1054,2003,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 62,float64,4080,1054,1519,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 63,float64,4080,1054,1460,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 64,float64,4080,1054,277,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 65,float64,4080,1054,171,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 66,float64,4080,1054,183,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 67,float64,4080,1054,141,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 68,float64,4080,1054,90,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 69,float64,4080,1054,98,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 70,float64,4080,1054,22,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 71,float64,4080,1054,17,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 72,float64,4080,1054,17,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 73,float64,4080,1054,136,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 74,float64,4080,1054,90,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 75,float64,4080,1054,91,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 76,float64,4080,1054,143,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 77,float64,4080,1054,22,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 78,float64,4080,1054,135,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 79,float64,4080,1054,193,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 80,float64,4080,1054,230,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 81,float64,4080,1054,151,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 82,float64,4080,1054,150,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 83,float64,4080,1054,339,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 84,float64,4080,1054,198,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 85,float64,4080,1054,192,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 86,float64,4080,1054,86,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 87,float64,4080,1054,94,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 88,float64,4080,1054,98,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 89,float64,4080,1054,100,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 90,float64,4080,1054,606,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 91,float64,4080,1054,256,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 92,float64,4080,1054,428,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 93,float64,4080,1054,84,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 94,float64,4080,1054,174,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 95,float64,4080,1054,69,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 96,float64,4080,1054,193,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 97,float64,4080,1054,138,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 98,float64,4080,1054,1977,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 99,float64,4080,1054,222,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 100,float64,4080,1054,131,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 101,float64,4080,1054,136,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 102,float64,4080,1054,87,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 103,float64,4080,1054,52,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 104,float64,4080,1054,55,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 105,float64,4080,1054,88,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 106,float64,4080,1054,50,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 107,float64,4080,1054,58,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 108,float64,4080,1054,304,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 109,float64,4080,1054,183,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 110,float64,4080,1054,173,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 111,float64,4080,1054,330,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 112,float64,4080,1054,199,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 113,float64,4080,1054,194,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 114,float64,4080,1054,59,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 115,float64,4080,1054,35,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 116,float64,4080,1054,40,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 117,float64,4080,1054,219,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 118,float64,4080,1054,139,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 119,float64,4080,1054,124,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 120,float64,4080,1054,259,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 121,float64,4080,1054,156,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 122,float64,4080,1054,153,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 123,float64,4080,1054,450,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 124,float64,4080,1054,264,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 125,float64,4080,1054,257,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 126,float64,4080,1054,641,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 127,float64,4080,1054,409,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 128,float64,4080,1054,391,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 129,float64,4080,1054,253,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 130,float64,4080,1054,136,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 131,float64,4080,1054,161,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 132,float64,4080,1054,898,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 133,float64,4080,1054,583,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 134,float64,4080,1054,564,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 135,float64,4080,1054,1335,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 136,float64,4080,1054,879,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 137,float64,4080,1054,859,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 138,float64,4080,1054,893,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 139,float64,4080,1054,844,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 140,float64,4080,1054,951,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 141,float64,4080,1054,1620,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 142,float64,4080,1054,1019,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 143,float64,4080,1054,1191,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 144,float64,4080,1054,1164,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 145,float64,4080,1054,927,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 146,float64,4080,1054,542,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 147,float64,4080,1054,1592,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 148,float64,4080,1054,1001,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 149,float64,4080,1054,1191,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 150,float64,4080,1054,98,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 151,float64,4080,1054,40,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 152,float64,4080,1054,73,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 153,float64,4080,1054,1227,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 154,float64,4080,1054,1846,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 155,float64,4080,1054,1622,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 156,float64,4080,1054,288,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 157,float64,4080,1054,36,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 158,float64,4080,1054,82,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 159,float64,4080,1054,942,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 160,float64,4080,1054,75,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 161,float64,4080,1054,346,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 162,float64,4080,1054,138,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 163,float64,4080,1054,1201,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 164,float64,4080,1054,1447,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 165,float64,4080,1054,538,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 166,float64,4080,1054,2018,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 167,float64,4080,1054,401,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 168,float64,4080,1054,45,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 169,float64,4080,1054,423,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 170,float64,4080,1054,1143,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 171,float64,4080,1054,572,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 172,float64,4080,1054,890,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 173,float64,4080,1054,2087,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 174,float64,4080,1054,1260,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 175,float64,4080,1054,1802,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 176,float64,4080,1053,1301,3027,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 177,float64,4080,1053,1146,3027,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 178,float64,4080,1054,1242,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 179,float64,4080,1054,1099,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 180,float64,4080,1054,1136,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 181,float64,4080,1054,1143,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 182,float64,4080,1054,375,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 183,float64,4080,1054,250,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 184,float64,4080,1054,2087,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 185,float64,4080,1054,251,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 186,float64,4080,1054,113,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 187,float64,4080,1054,1128,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 188,float64,4080,1054,92,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 189,float64,4080,1054,462,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 190,float64,4080,1054,959,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 191,float64,4080,1054,135,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 192,float64,4080,1054,316,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 193,float64,4080,1054,1028,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 194,float64,4080,1054,1131,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 195,float64,4080,1054,40,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 196,float64,4080,1054,1133,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 197,float64,4080,1054,1126,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 198,float64,4080,1054,67,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 199,float64,4080,1054,994,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 200,float64,4080,1054,749,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 201,float64,4080,1054,1132,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 202,float64,4080,1054,26,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 203,float64,4080,1054,1143,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 204,float64,4080,1054,65,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 205,float64,4080,1054,1149,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 206,float64,4080,1054,15,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 207,float64,4080,1054,1124,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 208,float64,4080,1054,618,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 209,float64,4080,1054,37,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 210,float64,4080,1054,1102,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 211,float64,4080,1054,1042,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 212,float64,4080,1054,835,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 213,float64,4080,1054,817,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 214,float64,4080,1054,396,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 215,float64,4080,1054,527,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 216,float64,4080,1054,943,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 217,float64,4080,1054,1104,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 218,float64,4080,1054,738,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 219,float64,4080,1054,725,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 220,float64,4080,1054,1105,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 221,float64,4080,1054,898,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 222,float64,4080,1054,783,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 223,float64,4080,1054,543,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 224,float64,4080,1054,398,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 225,float64,4080,1054,109,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 226,float64,4080,1054,140,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 227,float64,4080,1054,598,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 228,float64,4080,1054,55,3026,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 229,float64,4080,870,415,3210,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 230,float64,4080,847,908,3233,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 231,float64,4080,866,703,3214,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 232,float64,4080,847,822,3233,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 233,float64,4080,847,131,3233,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 234,float64,4080,847,1565,3233,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 235,float64,4080,847,1996,3233,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 236,float64,4080,866,921,3214,0,Sin definición documental; conservar nombre original
+S07,Unnamed: 237,float64,4080,499,1916,3581,0,Sin definición documental; conservar nombre original
+S08,seccion,int64,4080,0,4080,4080,0,Nombre literal de la fuente
+S08,PCT_SECC,float64,4080,0,434,4080,0,Nombre literal de la fuente
+S08,Unnamed: 2,float64,4080,499,3581,3581,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 3,float64,4080,1053,3027,3027,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 4,float64,4080,1053,1,3027,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 5,float64,4080,1053,2080,3027,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 6,float64,4080,1054,1597,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 7,float64,4080,1054,1549,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 8,float64,4080,1054,372,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 9,float64,4080,1054,225,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 10,float64,4080,1054,226,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 11,float64,4080,1054,1220,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 12,float64,4080,1054,2034,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 13,float64,4080,1054,1576,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 14,float64,4080,1054,1532,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 15,float64,4080,1054,2031,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 16,float64,4080,1054,1550,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 17,float64,4080,1054,1492,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 18,float64,4080,1054,1915,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 19,float64,4080,1054,1428,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 20,float64,4080,1054,1380,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 21,float64,4080,1054,1895,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 22,float64,4080,1054,1388,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 23,float64,4080,1054,1348,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 24,float64,4080,1054,1802,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 25,float64,4080,1054,1351,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 26,float64,4080,1054,1283,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 27,float64,4080,1054,403,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 28,float64,4080,1054,245,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 29,float64,4080,1054,248,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 30,float64,4080,1054,643,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 31,float64,4080,1054,401,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 32,float64,4080,1054,405,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 33,float64,4080,1054,706,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 34,float64,4080,1054,441,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 35,float64,4080,1054,447,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 36,float64,4080,1054,397,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 37,float64,4080,1054,234,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 38,float64,4080,1054,243,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 39,float64,4080,1054,393,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 40,float64,4080,1054,240,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 41,float64,4080,1054,243,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 42,float64,4080,1054,684,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 43,float64,4080,1054,427,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 44,float64,4080,1054,428,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 45,float64,4080,1054,1138,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 46,float64,4080,1054,617,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 47,float64,4080,1054,389,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 48,float64,4080,1054,337,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 49,float64,4080,1054,1745,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 50,float64,4080,1054,1105,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 51,float64,4080,1054,1764,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 52,float64,4080,1054,449,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 53,float64,4080,1054,69,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 54,float64,4080,1054,277,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 55,float64,4080,1054,1979,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 56,float64,4080,1054,1488,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 57,float64,4080,1054,1463,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 58,float64,4080,1054,789,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 59,float64,4080,1054,515,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 60,float64,4080,1054,517,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 61,float64,4080,1054,2003,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 62,float64,4080,1054,1519,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 63,float64,4080,1054,1460,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 64,float64,4080,1054,277,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 65,float64,4080,1054,171,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 66,float64,4080,1054,183,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 67,float64,4080,1054,141,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 68,float64,4080,1054,90,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 69,float64,4080,1054,98,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 70,float64,4080,1054,22,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 71,float64,4080,1054,17,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 72,float64,4080,1054,17,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 73,float64,4080,1054,136,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 74,float64,4080,1054,90,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 75,float64,4080,1054,91,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 76,float64,4080,1054,143,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 77,float64,4080,1054,22,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 78,float64,4080,1054,135,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 79,float64,4080,1054,193,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 80,float64,4080,1054,230,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 81,float64,4080,1054,151,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 82,float64,4080,1054,150,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 83,float64,4080,1054,339,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 84,float64,4080,1054,198,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 85,float64,4080,1054,192,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 86,float64,4080,1054,86,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 87,float64,4080,1054,94,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 88,float64,4080,1054,98,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 89,float64,4080,1054,100,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 90,float64,4080,1054,606,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 91,float64,4080,1054,256,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 92,float64,4080,1054,428,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 93,float64,4080,1054,84,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 94,float64,4080,1054,174,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 95,float64,4080,1054,69,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 96,float64,4080,1054,193,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 97,float64,4080,1054,138,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 98,float64,4080,1054,1977,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 99,float64,4080,1054,222,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 100,float64,4080,1054,131,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 101,float64,4080,1054,136,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 102,float64,4080,1054,87,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 103,float64,4080,1054,52,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 104,float64,4080,1054,55,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 105,float64,4080,1054,88,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 106,float64,4080,1054,50,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 107,float64,4080,1054,58,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 108,float64,4080,1054,304,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 109,float64,4080,1054,183,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 110,float64,4080,1054,173,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 111,float64,4080,1054,330,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 112,float64,4080,1054,199,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 113,float64,4080,1054,194,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 114,float64,4080,1054,59,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 115,float64,4080,1054,35,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 116,float64,4080,1054,40,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 117,float64,4080,1054,219,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 118,float64,4080,1054,139,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 119,float64,4080,1054,124,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 120,float64,4080,1054,259,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 121,float64,4080,1054,156,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 122,float64,4080,1054,153,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 123,float64,4080,1054,450,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 124,float64,4080,1054,264,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 125,float64,4080,1054,257,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 126,float64,4080,1054,641,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 127,float64,4080,1054,409,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 128,float64,4080,1054,391,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 129,float64,4080,1054,253,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 130,float64,4080,1054,136,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 131,float64,4080,1054,161,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 132,float64,4080,1054,898,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 133,float64,4080,1054,583,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 134,float64,4080,1054,564,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 135,float64,4080,1054,1335,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 136,float64,4080,1054,879,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 137,float64,4080,1054,859,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 138,float64,4080,1054,893,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 139,float64,4080,1054,844,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 140,float64,4080,1054,951,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 141,float64,4080,1054,1620,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 142,float64,4080,1054,1019,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 143,float64,4080,1054,1191,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 144,float64,4080,1054,1164,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 145,float64,4080,1054,927,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 146,float64,4080,1054,542,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 147,float64,4080,1054,1592,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 148,float64,4080,1054,1001,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 149,float64,4080,1054,1191,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 150,float64,4080,1054,98,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 151,float64,4080,1054,40,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 152,float64,4080,1054,73,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 153,float64,4080,1054,1227,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 154,float64,4080,1054,1846,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 155,float64,4080,1054,1622,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 156,float64,4080,1054,288,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 157,float64,4080,1054,36,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 158,float64,4080,1054,82,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 159,float64,4080,1054,942,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 160,float64,4080,1054,75,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 161,float64,4080,1054,346,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 162,float64,4080,1054,138,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 163,float64,4080,1054,1201,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 164,float64,4080,1054,1447,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 165,float64,4080,1054,538,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 166,float64,4080,1054,2018,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 167,float64,4080,1054,401,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 168,float64,4080,1054,45,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 169,float64,4080,1054,423,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 170,float64,4080,1054,1143,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 171,float64,4080,1054,572,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 172,float64,4080,1054,890,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 173,float64,4080,1054,2087,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 174,float64,4080,1054,1260,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 175,float64,4080,1054,1802,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 176,float64,4080,1053,1301,3027,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 177,float64,4080,1053,1146,3027,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 178,float64,4080,1054,1242,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 179,float64,4080,1054,1099,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 180,float64,4080,1054,1136,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 181,float64,4080,1054,1143,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 182,float64,4080,1054,375,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 183,float64,4080,1054,250,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 184,float64,4080,1054,2087,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 185,float64,4080,1054,251,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 186,float64,4080,1054,113,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 187,float64,4080,1054,1128,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 188,float64,4080,1054,92,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 189,float64,4080,1054,462,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 190,float64,4080,1054,959,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 191,float64,4080,1054,135,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 192,float64,4080,1054,316,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 193,float64,4080,1054,1028,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 194,float64,4080,1054,1131,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 195,float64,4080,1054,40,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 196,float64,4080,1054,1133,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 197,float64,4080,1054,1126,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 198,float64,4080,1054,67,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 199,float64,4080,1054,994,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 200,float64,4080,1054,749,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 201,float64,4080,1054,1132,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 202,float64,4080,1054,26,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 203,float64,4080,1054,1143,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 204,float64,4080,1054,65,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 205,float64,4080,1054,1149,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 206,float64,4080,1054,15,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 207,float64,4080,1054,1124,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 208,float64,4080,1054,618,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 209,float64,4080,1054,37,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 210,float64,4080,1054,1102,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 211,float64,4080,1054,1042,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 212,float64,4080,1054,835,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 213,float64,4080,1054,817,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 214,float64,4080,1054,396,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 215,float64,4080,1054,527,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 216,float64,4080,1054,943,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 217,float64,4080,1054,1104,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 218,float64,4080,1054,738,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 219,float64,4080,1054,725,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 220,float64,4080,1054,1105,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 221,float64,4080,1054,898,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 222,float64,4080,1054,783,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 223,float64,4080,1054,543,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 224,float64,4080,1054,398,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 225,float64,4080,1054,109,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 226,float64,4080,1054,140,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 227,float64,4080,1054,598,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 228,float64,4080,1054,55,3026,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 229,float64,4080,870,415,3210,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 230,float64,4080,847,908,3233,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 231,float64,4080,866,703,3214,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 232,float64,4080,847,822,3233,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 233,float64,4080,847,131,3233,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 234,float64,4080,847,1565,3233,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 235,float64,4080,847,1996,3233,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 236,float64,4080,866,921,3214,0,Sin definición documental; conservar nombre original
+S08,Unnamed: 237,float64,4080,499,1916,3581,0,Sin definición documental; conservar nombre original
+S09,SECCION,int64,3784,0,3784,3784,0,Nombre literal de la fuente
+S09,PAN_24,float64,3784,23,477,3761,0,Nombre literal de la fuente
+S09,PRI,float64,3784,29,387,3755,0,Nombre literal de la fuente
+S09,PRD,float64,3784,29,64,3755,0,Nombre literal de la fuente
+S09,PVEM,float64,3784,53,322,3731,0,Nombre literal de la fuente
+S09,PT,float64,3784,169,158,3615,0,Nombre literal de la fuente
+S09,MC_24,int64,3784,0,968,3784,0,Nombre literal de la fuente
+S09,MORENA_24,float64,3784,19,764,3765,0,Nombre literal de la fuente
+S09,MO_COAL24,int64,3784,0,885,3784,0,Nombre literal de la fuente
+S09,HAGAMOS,float64,3784,54,230,3730,0,Nombre literal de la fuente
+S09,FUTURO,float64,3784,182,216,3602,0,Nombre literal de la fuente
+S09,CAND_IND1,float64,3784,3757,25,27,0,Nombre literal de la fuente
+S09,CAND_IND2,float64,3784,3670,74,114,0,Nombre literal de la fuente
+S09,PAN_PRI_PRD,float64,3784,29,86,3755,0,Nombre literal de la fuente
+S09,PAN_PRI,float64,3784,29,39,3755,0,Nombre literal de la fuente
+S09,PAN_PRD,float64,3784,29,11,3755,0,Nombre literal de la fuente
+S09,PRI_PRD,float64,3784,29,12,3755,0,Nombre literal de la fuente
+S09,PVEM_PT_MORENA_HAGAMOS_FUTURO,float64,3784,715,46,3069,0,Nombre literal de la fuente
+S09,PVEM_PT_MORENA_HAGAMOS,float64,3784,715,18,3069,0,Nombre literal de la fuente
+S09,PVEM_PT_MORENA_FUTURO,float64,3784,715,23,3069,0,Nombre literal de la fuente
+S09,PVEM_PT_MORENA,float64,3784,715,56,3069,0,Nombre literal de la fuente
+S09,PVEM_PT_HAGAMOS_FUTURO,float64,3784,715,11,3069,0,Nombre literal de la fuente
+S09,PVEM_PT_HAGAMOS,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S09,PVEM_PT_FUTURO,float64,3784,715,9,3069,0,Nombre literal de la fuente
+S09,PVEM_PT,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S09,PVEM_MORENA_HAGAMOS_FUTURO,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S09,PVEM_MORENA_HAGAMOS,float64,3784,715,12,3069,0,Nombre literal de la fuente
+S09,PVEM_MORENA_FUTURO,float64,3784,715,17,3069,0,Nombre literal de la fuente
+S09,PVEM_MORENA,float64,3784,715,35,3069,0,Nombre literal de la fuente
+S09,PVEM_HAGAMOS_FUTURO,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S09,PVEM_HAGAMOS,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S09,PVEM_FUTURO,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S09,PT_MORENA_HAGAMOS_FUTURO,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S09,PT_MORENA_HAGAMOS,float64,3784,715,5,3069,0,Nombre literal de la fuente
+S09,PT_MORENA_FUTURO,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S09,PT_MORENA,float64,3784,715,23,3069,0,Nombre literal de la fuente
+S09,PT_HAGAMOS_FUTURO,float64,3784,715,5,3069,0,Nombre literal de la fuente
+S09,PT_HAGAMOS,float64,3784,715,6,3069,0,Nombre literal de la fuente
+S09,PT_FUTURO,float64,3784,715,6,3069,0,Nombre literal de la fuente
+S09,MORENA_HAGAMOS_FUTURO,float64,3784,715,15,3069,0,Nombre literal de la fuente
+S09,MORENA_HAGAMOS,float64,3784,715,21,3069,0,Nombre literal de la fuente
+S09,MORENA_FUTURO,float64,3784,715,23,3069,0,Nombre literal de la fuente
+S09,HAGAMOS_FUTURO,float64,3784,715,14,3069,0,Nombre literal de la fuente
+S09,VOT_VALID,int64,3784,0,1662,3784,0,Nombre literal de la fuente
+S09,VOT_CAN_NREG,int64,3784,0,38,3784,0,Nombre literal de la fuente
+S09,VOT_NULO,int64,3784,0,154,3784,0,Nombre literal de la fuente
+S09,TOT_VOT,int64,3784,0,1687,3784,0,Nombre literal de la fuente
+S09,LIST_NOM,int64,3784,0,2215,3784,0,Nombre literal de la fuente
+S10,SECCION,int64,3784,0,3784,3784,0,Nombre literal de la fuente
+S10,PAN_24,float64,3784,23,477,3761,0,Nombre literal de la fuente
+S10,PRI,float64,3784,29,387,3755,0,Nombre literal de la fuente
+S10,PRD,float64,3784,29,64,3755,0,Nombre literal de la fuente
+S10,PVEM,float64,3784,53,322,3731,0,Nombre literal de la fuente
+S10,PT,float64,3784,169,158,3615,0,Nombre literal de la fuente
+S10,MC,int64,3784,0,10,3784,0,Nombre literal de la fuente
+S10,MC_24,int64,3784,0,968,3784,0,Nombre literal de la fuente
+S10,MOR,float64,3784,19,10,3765,0,Nombre literal de la fuente
+S10,MORENA_24,float64,3784,19,764,3765,0,Nombre literal de la fuente
+S10,MORCOA,int64,3784,0,10,3784,0,Nombre literal de la fuente
+S10,MO_COAL24,int64,3784,0,885,3784,0,Nombre literal de la fuente
+S10,HAGAMOS,float64,3784,54,230,3730,0,Nombre literal de la fuente
+S10,FUTURO,float64,3784,182,216,3602,0,Nombre literal de la fuente
+S10,CAND_IND1,float64,3784,3757,25,27,0,Nombre literal de la fuente
+S10,CAND_IND2,float64,3784,3670,74,114,0,Nombre literal de la fuente
+S10,PAN_PRI_PRD,float64,3784,29,86,3755,0,Nombre literal de la fuente
+S10,PAN_PRI,float64,3784,29,39,3755,0,Nombre literal de la fuente
+S10,PAN_PRD,float64,3784,29,11,3755,0,Nombre literal de la fuente
+S10,PRI_PRD,float64,3784,29,12,3755,0,Nombre literal de la fuente
+S10,PVEM_PT_MORENA_HAGAMOS_FUTURO,float64,3784,715,46,3069,0,Nombre literal de la fuente
+S10,PVEM_PT_MORENA_HAGAMOS,float64,3784,715,18,3069,0,Nombre literal de la fuente
+S10,PVEM_PT_MORENA_FUTURO,float64,3784,715,23,3069,0,Nombre literal de la fuente
+S10,PVEM_PT_MORENA,float64,3784,715,56,3069,0,Nombre literal de la fuente
+S10,PVEM_PT_HAGAMOS_FUTURO,float64,3784,715,11,3069,0,Nombre literal de la fuente
+S10,PVEM_PT_HAGAMOS,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S10,PVEM_PT_FUTURO,float64,3784,715,9,3069,0,Nombre literal de la fuente
+S10,PVEM_PT,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S10,PVEM_MORENA_HAGAMOS_FUTURO,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S10,PVEM_MORENA_HAGAMOS,float64,3784,715,12,3069,0,Nombre literal de la fuente
+S10,PVEM_MORENA_FUTURO,float64,3784,715,17,3069,0,Nombre literal de la fuente
+S10,PVEM_MORENA,float64,3784,715,35,3069,0,Nombre literal de la fuente
+S10,PVEM_HAGAMOS_FUTURO,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S10,PVEM_HAGAMOS,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S10,PVEM_FUTURO,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S10,PT_MORENA_HAGAMOS_FUTURO,float64,3784,715,10,3069,0,Nombre literal de la fuente
+S10,PT_MORENA_HAGAMOS,float64,3784,715,5,3069,0,Nombre literal de la fuente
+S10,PT_MORENA_FUTURO,float64,3784,715,13,3069,0,Nombre literal de la fuente
+S10,PT_MORENA,float64,3784,715,23,3069,0,Nombre literal de la fuente
+S10,PT_HAGAMOS_FUTURO,float64,3784,715,5,3069,0,Nombre literal de la fuente
+S10,PT_HAGAMOS,float64,3784,715,6,3069,0,Nombre literal de la fuente
+S10,PT_FUTURO,float64,3784,715,6,3069,0,Nombre literal de la fuente
+S10,MORENA_HAGAMOS_FUTURO,float64,3784,715,15,3069,0,Nombre literal de la fuente
+S10,MORENA_HAGAMOS,float64,3784,715,21,3069,0,Nombre literal de la fuente
+S10,MORENA_FUTURO,float64,3784,715,23,3069,0,Nombre literal de la fuente
+S10,HAGAMOS_FUTURO,float64,3784,715,14,3069,0,Nombre literal de la fuente
+S10,VOT_VALID,int64,3784,0,1662,3784,0,Nombre literal de la fuente
+S10,VOT_CAN_NREG,int64,3784,0,38,3784,0,Nombre literal de la fuente
+S10,VOT_NULO,int64,3784,0,154,3784,0,Nombre literal de la fuente
+S10,TOT_VOT,int64,3784,0,1687,3784,0,Nombre literal de la fuente
+S10,LIST_NOM,int64,3784,0,2215,3784,0,Nombre literal de la fuente
+S10,Unnamed: 51,float64,3784,3784,0,0,0,Sin definición documental; conservar nombre original
+S10,Unnamed: 52,float64,3784,3784,0,0,0,Sin definición documental; conservar nombre original
+S10,Unnamed: 53,float64,3784,3784,0,0,0,Sin definición documental; conservar nombre original
+S10,DIGITOS,float64,3784,3775,9,9,0,Nombre literal de la fuente
+S10,FRECUENCIA,float64,3784,3774,10,10,0,Nombre literal de la fuente
+S10,RESULTADO,float64,3784,3772,12,12,0,Nombre literal de la fuente
+S10,ESPERADO,float64,3784,3775,9,9,0,Nombre literal de la fuente
+S10,MAD 2024,float64,3784,3775,9,9,0,Nombre literal de la fuente
+S10,CALIFICACION,str,3784,3775,1,0,9,Nombre literal de la fuente
+S10,MAD(mean absolute deviation),float64,3784,3775,9,9,0,Nombre literal de la fuente
+S10,VALOR DE MAD,str,3784,3780,4,0,4,Nombre literal de la fuente
+S10,Unnamed: 62,str,3784,3780,4,0,4,Sin definición documental; conservar nombre original
+S11,SECCION,int64,2869,0,2869,2869,0,Nombre literal de la fuente
+S11,ALTERADA,str,2869,0,2,0,2869,Nombre literal de la fuente
